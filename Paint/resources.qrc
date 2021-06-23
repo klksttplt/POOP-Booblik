@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icons/addCircle.png</file>
+        <file>resources/icons/addLine.png</file>
+        <file>resources/icons/addRect.png</file>
+        <file>resources/icons/blue.png</file>
+        <file>resources/icons/green.png</file>
+        <file>resources/icons/pink.png</file>
+        <file>resources/icons/red.png</file>
+        <file>resources/icons/yellow.png</file>
+        <file>resources/html/index.html</file>
+        <file>resources/icons/exit.png</file>
+        <file>resources/icons/help.png</file>
+        <file>resources/icons/save.png</file>
+        <file>resources/icons/black.png</file>
+        <file>resources/icons/minus.png</file>
+        <file>resources/icons/plus.png</file>
+        <file>resources/icons/addTriangle.png</file>
+    </qresource>
+</RCC>
